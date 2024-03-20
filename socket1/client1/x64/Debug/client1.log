@@ -1,0 +1,6 @@
+﻿  tcpsocket.cpp
+D:\vs项目\socket1\tcpsocket\tcpsocket.cpp(55,33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\vs项目\socket1\tcpsocket\tcpsocket.cpp(69,58): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  client1.cpp
+  正在生成代码...
+  client1.vcxproj -> D:\vs项目\socket1\x64\Debug\client1.exe

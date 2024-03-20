@@ -1,0 +1,5 @@
+﻿  tcpsocket.cpp
+D:\vs项目\socket\tcpsocket\tcpsocket.cpp(55,33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  server.cpp
+  正在生成代码...
+  server.vcxproj -> D:\vs项目\socket\x64\Debug\server.exe
